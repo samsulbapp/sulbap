@@ -1,0 +1,6 @@
+# https://tea.xyz/ghost
+---
+version: 1.0.0
+codeOwners:
+  - '0x2F2BCB78e9132194C6dC3Eecb999dFa80de0Ff10'
+quorum: 1
